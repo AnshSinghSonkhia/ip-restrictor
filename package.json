@@ -1,0 +1,46 @@
+{
+  "name": "ip-restrictor",
+  "version": "1.0.0",
+  "description": "Easily allow or block internal IPs in Node.js and Express apps. A simple middleware for IP filtering and network security.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/ip-restrictor.git"
+  },
+  "keywords": [
+    "IP",
+    "ip",
+    "ip-filtering",
+    "internal-ip",
+    "private-network",
+    "public-ip",
+    "block-ip",
+    "allow-ip",
+    "block",
+    "allow",
+    "restrict",
+    "express-middleware",
+    "network-security",
+    "access-control",
+    "access",
+    "firewall",
+    "restrict-ip"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/ip-restrictor/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/ip-restrictor#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}

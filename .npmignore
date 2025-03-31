@@ -16,3 +16,4 @@ coverage/
 test/
 .gitignore
 .npmignore
+.gitattributes
